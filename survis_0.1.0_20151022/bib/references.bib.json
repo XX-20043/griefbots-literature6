@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Ghostbots as Persons: Agency, Responsibility, and (Pseudo)Personhood in AI Representations of the Dead",
+        "authors": "Patrick Stokes",
+        "year": 2019,
+        "venue": "Philosophy & Technology",
+        "doi": "",
+        "keywords": [
+            "Ghostbots",
+            "AI Ethics",
+            "Postmortem Interaction"
+        ],
+        "type": "article",
+        "abstract": "Explores philosophical and ethical issues surrounding AI-based representations of deceased persons, examining agency and identity simulation."
+    },
+    {
+        "title": "The Political Economy of Death in the Age of Information",
+        "authors": "Carl \u00d6hman, Luciano Floridi",
+        "year": 2018,
+        "venue": "Journal of Logic and Computation",
+        "doi": "10.1093/jigpal/jzy030",
+        "keywords": [
+            "Digital Afterlife",
+            "Data Ethics",
+            "Consent"
+        ],
+        "type": "article",
+        "abstract": "Analyzes the digital afterlife industry's ethical and legal challenges, focusing on ownership and consent over postmortem data."
+    },
+    {
+        "title": "\u201cWe will never forget you [online]\u201d: An Empirical Investigation of Post-mortem MySpace Comments",
+        "authors": "Jed R. Brubaker, Gillian R. Hayes",
+        "year": 2011,
+        "venue": "CHI",
+        "doi": "10.1145/1978942.1978968",
+        "keywords": [
+            "Social Media",
+            "Grief Communication",
+            "Memorialization"
+        ],
+        "type": "article",
+        "abstract": "Empirical analysis of how users post comments to the profiles of the deceased on social media, with implications for digital mourning."
+    },
+    {
+        "title": "All the Ghosts in the Machine: Illusions of Immortality in the Digital Age",
+        "authors": "Elaine Kasket",
+        "year": 2020,
+        "venue": "Book",
+        "doi": "",
+        "keywords": [
+            "Digital Legacy",
+            "Psychology",
+            "Digital Immortality"
+        ],
+        "type": "book",
+        "abstract": "A book exploring the psychological implications and illusions surrounding digital death, identity persistence, and remembrance."
+    },
+    {
+        "title": "Virtual Reality for Bereavement Therapy: Potentials and Challenges",
+        "authors": "CJ Falconer et al.",
+        "year": 2019,
+        "venue": "Journal of Affective Disorders",
+        "doi": "10.1016/j.jad.2019.01.050",
+        "keywords": [
+            "VR",
+            "Grief Therapy",
+            "Emotional Support"
+        ],
+        "type": "article",
+        "abstract": "Reviews current VR applications for bereavement therapy and outlines future challenges in design and implementation."
+    },
+    {
+        "title": "Ethical Design of Companion AI in Bereavement Contexts",
+        "authors": "E. Morrow et al.",
+        "year": 2021,
+        "venue": "AI & Society",
+        "doi": "",
+        "keywords": [
+            "Companion AI",
+            "Design Ethics",
+            "User Study"
+        ],
+        "type": "article",
+        "abstract": "Discusses ethical design considerations in AI systems used to provide emotional support during bereavement."
+    },
+    {
+        "title": "Emotionally Intelligent Agents for Grief Counseling",
+        "authors": "David D. Luxton",
+        "year": 2016,
+        "venue": "Book Chapter",
+        "doi": "",
+        "keywords": [
+            "Emotion AI",
+            "Mental Health",
+            "Grief Support"
+        ],
+        "type": "book chapter",
+        "abstract": "Explores how AI systems can be developed to understand and respond to users' emotional states in the context of grief counseling."
+    },
+    {
+        "title": "Digital Afterlife: Death Matters in a Digital Age",
+        "authors": "Caroline Bassett",
+        "year": 2021,
+        "venue": "Cultural Studies Review",
+        "doi": "",
+        "keywords": [
+            "Digital Death",
+            "Culture",
+            "Afterlife Platforms"
+        ],
+        "type": "article",
+        "abstract": "Examines how digital technologies shape cultural understandings and practices of death, mourning, and memorial."
+    },
+    {
+        "title": "Designing Griefbots: What is appropriate when digital avatars survive us?",
+        "authors": "J. Sarda et al.",
+        "year": 2022,
+        "venue": "Conference on Human Factors",
+        "doi": "",
+        "keywords": [
+            "Griefbots",
+            "HCI",
+            "Postmortem AI"
+        ],
+        "type": "article",
+        "abstract": "Analyzes user interaction and ethical boundaries in the development of AI grief companions and digital avatars."
+    },
+    {
+        "title": "Can Robots Help with Grief?",
+        "authors": "J. Sarda et al.",
+        "year": 2022,
+        "venue": "Human-Robot Interaction Workshop",
+        "doi": "",
+        "keywords": [
+            "Robots",
+            "Grief",
+            "Emotional AI"
+        ],
+        "type": "article",
+        "abstract": "Investigates the emotional and practical utility of robotic companions for users experiencing grief."
+    }
+]
